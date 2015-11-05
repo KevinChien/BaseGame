@@ -1,0 +1,2 @@
+# BaseGame
+For funny
